@@ -1,3 +1,5 @@
+> # _❗This is not maintained, New repo is [here](https://github.com/thusarasenanayake/blogs-website)_
+
 <p align="center">
   <h1 align="center">Blogs Website</h1>
   <p align="center">
